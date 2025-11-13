@@ -1,1 +1,41 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vlCa2ep6)
+# BookStore Web App 📚
+
+A modern, responsive online bookstore web application built with HTML, CSS, and JavaScript. Users can browse books, add them to a shopping cart, manage their account, and subscribe to newsletters.
+
+---
+
+## Features ✨
+
+- **Responsive Design**: Works on desktops, tablets, and mobile devices.
+- **Browse & Search Books**: Explore books by genre, author, or title.
+- **Shopping Cart**:
+  - Add books to cart
+  - Update quantities
+  - Remove items
+  - View total price
+- **User Authentication**:
+  - Login and Register
+  - Persistent sessions using `localStorage`
+- **Newsletter Subscription**: Users can subscribe to updates.
+- **Toast Notifications**: Informative notifications when actions are performed.
+- **Checkout Process**: Sends cart data to server API for order processing.
+
+---
+
+## Screenshots 🖼️
+
+*You can add screenshots here of your homepage, cart, and book sections.*
+
+---
+
+## Technologies Used 🛠️
+
+- HTML5
+- CSS3 (Flexbox, Grid, Responsive Design)
+- JavaScript (Vanilla JS, Fetch API)
+- Local Storage for cart and session persistence
+
+---
+
+## Project Structure 📂
+
